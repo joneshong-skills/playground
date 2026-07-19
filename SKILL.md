@@ -1,6 +1,6 @@
 ---
 name: playground
-description: Creates interactive HTML playgrounds — self-contained single-file explorers that let users configure something visually through controls, see a live preview, and copy out a prompt. Use when the user asks to make a playground, explorer, or interactive tool for a topic.
+description: "playground, build, interactive, explorer, create, visual, tool, 做一個可以調參數的工具, 互動式展示, 讓我可以調整看看"
 ---
 
 # Playground Builder
